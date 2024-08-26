@@ -1,4 +1,4 @@
 # Desafios
- 
-## Desafio 1: tabela
-## Desafio 2: formulário
+## Desafios realizados em aula para entender HTML e CSS
+ * Desafio 1: tabela
+ * Desafio 2: formulário
